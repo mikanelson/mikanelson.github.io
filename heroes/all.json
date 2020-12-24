@@ -215,7 +215,7 @@
     "localized_name": "Phantom Assassin"
   },
   "pugna": {
-    "name": "npc_dota_hero_faceless_pugna",
+    "name": "npc_dota_hero_pugna",
     "id": 45,
     "localized_name": "Pugna"
   },
@@ -230,7 +230,7 @@
     "localized_name": "Viper"
   },
   "luna": {
-    "name": "npc_dota_hero_faceless_luna",
+    "name": "npc_dota_hero_luna",
     "id": 48,
     "localized_name": "Luna"
   },
