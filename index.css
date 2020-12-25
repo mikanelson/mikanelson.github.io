@@ -1,0 +1,30 @@
+@import url('https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css');
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
+
+body {
+    font-family: 'PT Serif', serif;
+    background-color: #222;
+    color: #e6e6e6;
+    border-color: #e6e6e6;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+#fhero-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 235px;
+    height: 272px;
+}
+
+table {
+    margin: auto;
+}
+
+td {
+    padding: 20px;
+}
