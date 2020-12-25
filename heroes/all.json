@@ -573,7 +573,7 @@
     "name": "npc_dota_hero_magnataur",
     "id": 97,
     "localized_name": "Magnus",
-    "image": "http://cdn.dota2.com/apps/dota2/images/heroes/magnus_vert.jpg"
+    "image": "http://cdn.dota2.com/apps/dota2/images/heroes/magnataur_vert.jpg"
   },
   "shredder": {
     "name": "npc_dota_hero_shredder",
