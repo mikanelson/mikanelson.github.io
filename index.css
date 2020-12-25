@@ -21,6 +21,18 @@ h1 {
     height: 272px;
 }
 
+button {
+    font-family: 'PT Serif', serif;
+    background-color: rgb(24, 24, 24);
+    color: #e6e6e6;
+    text-align: center;
+    width: 300px;
+    height: 80px;
+    border: none;
+    border-radius:5px;
+    font-size: 30px;
+}
+
 table {
     margin: auto;
 }

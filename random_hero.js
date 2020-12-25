@@ -5,6 +5,11 @@ function Get(yourUrl) {
     return Httpreq.responseText;
 }
 
+var sortButton = document.getElementById("refresh");
+sortButton.onclick = function refresh() {
+    location.reload();
+}
+
 var json = Get("https://mikanelson.github.io/heroes/all.json");
 var parsedJson = JSON.parse(json);
 
