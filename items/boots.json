@@ -17,6 +17,15 @@
     "side_shop": 0,
     "recipe": 0
   },
+  "tranquil_boots": {
+    "id": 214,
+    "name": "item_tranquil_boots",
+    "localized_name": "Tranquil Boots",
+    "cost": 925,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
   "travel_boots_2": {
     "id": 220,
     "name": "item_travel_boots_2",

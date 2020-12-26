@@ -1,0 +1,578 @@
+{
+  "hand_of_midas": {
+    "id": 65,
+    "name": "item_hand_of_midas",
+    "localized_name": "Hand of Midas",
+    "cost": 2200,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "vladmir": {
+    "id": 81,
+    "name": "item_vladmir",
+    "localized_name": "Vladmir's Offering",
+    "cost": 2750,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "pipe": {
+    "id": 90,
+    "name": "item_pipe",
+    "localized_name": "Pipe of Insight",
+    "cost": 3425,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "sheepstick": {
+    "id": 96,
+    "name": "item_sheepstick",
+    "localized_name": "Scythe of Vyse",
+    "cost": 5675,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "refresher": {
+    "id": 110,
+    "name": "item_refresher",
+    "localized_name": "Refresher Orb",
+    "cost": 5000,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "assault": {
+    "id": 112,
+    "name": "item_assault",
+    "localized_name": "Assault Cuirass",
+    "cost": 5075,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "heart": {
+    "id": 114,
+    "name": "item_heart",
+    "localized_name": "Heart of Tarrasque",
+    "cost": 4800,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "black_king_bar": {
+    "id": 116,
+    "name": "item_black_king_bar",
+    "localized_name": "Black King Bar",
+    "cost": 4050,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "shivas_guard": {
+    "id": 119,
+    "name": "item_shivas_guard",
+    "localized_name": "Shiva's Guard",
+    "cost": 4850,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "bloodstone": {
+    "id": 121,
+    "name": "item_bloodstone",
+    "localized_name": "Bloodstone",
+    "cost": 5950,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "sphere": {
+    "id": 123,
+    "name": "item_sphere",
+    "localized_name": "Linken's Sphere",
+    "cost": 4600,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "blade_mail": {
+    "id": 127,
+    "name": "item_blade_mail",
+    "localized_name": "Blade Mail",
+    "cost": 2225,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "rapier": {
+    "id": 133,
+    "name": "item_rapier",
+    "localized_name": "Divine Rapier",
+    "cost": 6000,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "monkey_king_bar": {
+    "id": 135,
+    "name": "item_monkey_king_bar",
+    "localized_name": "Monkey King Bar",
+    "cost": 4975,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "radiance": {
+    "id": 137,
+    "name": "item_radiance",
+    "localized_name": "Radiance",
+    "cost": 5150,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "butterfly": {
+    "id": 139,
+    "name": "item_butterfly",
+    "localized_name": "Butterfly",
+    "cost": 5075,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "greater_crit": {
+    "id": 141,
+    "name": "item_greater_crit",
+    "localized_name": "Daedalus",
+    "cost": 5150,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "bfury": {
+    "id": 145,
+    "name": "item_bfury",
+    "localized_name": "Battle Fury",
+    "cost": 4130,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "manta": {
+    "id": 147,
+    "name": "item_manta",
+    "localized_name": "Manta Style",
+    "cost": 4600,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "armlet": {
+    "id": 151,
+    "name": "item_armlet",
+    "localized_name": "Armlet of Mordiggian",
+    "cost": 2475,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "sange_and_yasha": {
+    "id": 154,
+    "name": "item_sange_and_yasha",
+    "localized_name": "Sange and Yasha",
+    "cost": 4100,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "satanic": {
+    "id": 156,
+    "name": "item_satanic",
+    "localized_name": "Satanic",
+    "cost": 5050,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "mjollnir": {
+    "id": 158,
+    "name": "item_mjollnir",
+    "localized_name": "Mjollnir",
+    "cost": 5600,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "skadi": {
+    "id": 160,
+    "name": "item_skadi",
+    "localized_name": "Eye of Skadi",
+    "cost": 5300,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "desolator": {
+    "id": 168,
+    "name": "item_desolator",
+    "localized_name": "Desolator",
+    "cost": 3500,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "mask_of_madness": {
+    "id": 172,
+    "name": "item_mask_of_madness",
+    "localized_name": "Mask of Madness",
+    "cost": 1775,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "diffusal_blade": {
+    "id": 174,
+    "name": "item_diffusal_blade",
+    "localized_name": "Diffusal Blade",
+    "cost": 3150,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "ethereal_blade": {
+    "id": 176,
+    "name": "item_ethereal_blade",
+    "localized_name": "Ethereal Blade",
+    "cost": 4300,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "soul_ring": {
+    "id": 178,
+    "name": "item_soul_ring",
+    "localized_name": "Soul Ring",
+    "cost": 740,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "ancient_janggo": {
+    "id": 185,
+    "name": "item_ancient_janggo",
+    "localized_name": "Drum of Endurance",
+    "cost": 1700,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "veil_of_discord": {
+    "id": 190,
+    "name": "item_veil_of_discord",
+    "localized_name": "Veil of Discord",
+    "cost": 1525,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "necronomicon_3": {
+    "id": 194,
+    "name": "item_necronomicon_3",
+    "localized_name": "Necronomicon 3",
+    "cost": 4550,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "dagon_5": {
+    "id": 204,
+    "name": "item_dagon_5",
+    "localized_name": "Dagon 5",
+    "cost": 7950,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "abyssal_blade": {
+    "id": 208,
+    "name": "item_abyssal_blade",
+    "localized_name": "Abyssal Blade",
+    "cost": 6625,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "heavens_halberd": {
+    "id": 210,
+    "name": "item_heavens_halberd",
+    "localized_name": "Heaven's Halberd",
+    "cost": 3650,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "meteor_hammer": {
+    "id": 223,
+    "name": "item_meteor_hammer",
+    "localized_name": "Meteor Hammer",
+    "cost": 2350,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "nullifier": {
+    "id": 225,
+    "name": "item_nullifier",
+    "localized_name": "Nullifier",
+    "cost": 4725,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "lotus_orb": {
+    "id": 226,
+    "name": "item_lotus_orb",
+    "localized_name": "Lotus Orb",
+    "cost": 3950,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "solar_crest": {
+    "id": 229,
+    "name": "item_solar_crest",
+    "localized_name": "Solar Crest",
+    "cost": 3775,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "octarine_core": {
+    "id": 235,
+    "name": "item_octarine_core",
+    "localized_name": "Octarine Core",
+    "cost": 5475,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "crimson_guard": {
+    "id": 242,
+    "name": "item_crimson_guard",
+    "localized_name": "Crimson Guard",
+    "cost": 3800,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "moon_shard": {
+    "id": 247,
+    "name": "item_moon_shard",
+    "localized_name": "Moon Shard",
+    "cost": 4000,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "silver_edge": {
+    "id": 249,
+    "name": "item_silver_edge",
+    "localized_name": "Silver Edge",
+    "cost": 5600,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "bloodthorn": {
+    "id": 250,
+    "name": "item_bloodthorn",
+    "localized_name": "Bloodthorn",
+    "cost": 6475,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "echo_sabre": {
+    "id": 252,
+    "name": "item_echo_sabre",
+    "localized_name": "Echo Sabre",
+    "cost": 2500,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "glimmer_cape": {
+    "id": 254,
+    "name": "item_glimmer_cape",
+    "localized_name": "Glimmer Cape",
+    "cost": 1900,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "aeon_disk": {
+    "id": 256,
+    "name": "item_aeon_disk",
+    "localized_name": "Aeon Disk",
+    "cost": 3100,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "hurricane_pike": {
+    "id": 263,
+    "name": "item_hurricane_pike",
+    "localized_name": "Hurricane Pike",
+    "cost": 4525,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "spirit_vessel": {
+    "id": 267,
+    "name": "item_spirit_vessel",
+    "localized_name": "Spirit Vessel",
+    "cost": 2940,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "holy_locket": {
+    "id": 269,
+    "name": "item_holy_locket",
+    "localized_name": "Holy Locket",
+    "cost": 2500,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "ultimate_scepter_2": {
+    "id": 271,
+    "name": "item_ultimate_scepter_2",
+    "localized_name": "Aghanim's Blessing",
+    "cost": 5800,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "kaya_and_sange": {
+    "id": 273,
+    "name": "item_kaya_and_sange",
+    "localized_name": "Kaya and Sange",
+    "cost": 4100,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "yasha_and_kaya": {
+    "id": 277,
+    "name": "item_yasha_and_kaya",
+    "localized_name": "Yasha and Kaya",
+    "cost": 4100,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "witch_blade": {
+    "id": 534,
+    "name": "item_witch_blade",
+    "localized_name": "Witch Blade",
+    "cost": 2600,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "orb_of_corrosion": {
+    "id": 569,
+    "name": "item_orb_of_corrosion",
+    "localized_name": "Orb of Corrosion",
+    "cost": 825,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "falcon_blade": {
+    "id": 596,
+    "name": "item_falcon_blade",
+    "localized_name": "Falcon Blade",
+    "cost": 1100,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "mage_slayer": {
+    "id": 598,
+    "name": "item_mage_slayer",
+    "localized_name": "Mage Slayer",
+    "cost": 3400,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "overwhelming_blink": {
+    "id": 600,
+    "name": "item_overwhelming_blink",
+    "localized_name": "Overwhelming Blink",
+    "cost": 6800,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "swift_blink": {
+    "id": 603,
+    "name": "item_swift_blink",
+    "localized_name": "Swift Blink",
+    "cost": 6800,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "arcane_blink": {
+    "id": 604,
+    "name": "item_arcane_blink",
+    "localized_name": "Arcane Blink",
+    "cost": 6800,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "wind_waker": {
+    "id": 610,
+    "name": "item_wind_waker",
+    "localized_name": "Wind Waker",
+    "cost": 7125,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "helm_of_the_dominator_2": {
+    "id": 635,
+    "name": "item_helm_of_the_dominator_2",
+    "localized_name": "Helm of the Dominator 2",
+    "cost": 6000,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "eternal_shroud": {
+    "id": 692,
+    "name": "item_eternal_shroud",
+    "localized_name": "Eternal Shroud",
+    "cost": 3250,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "gungir": {
+    "id": 1466,
+    "name": "item_gungir",
+    "localized_name": "Gleipnir",
+    "cost": 6150,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  }
+}
