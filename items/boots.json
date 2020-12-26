@@ -1,0 +1,38 @@
+{
+  "phase_boots": {
+    "id": 50,
+    "name": "item_phase_boots",
+    "localized_name": "Phase Boots",
+    "cost": 1500,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "power_treads": {
+    "id": 63,
+    "name": "item_power_treads",
+    "localized_name": "Power Treads",
+    "cost": 1400,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "travel_boots_2": {
+    "id": 220,
+    "name": "item_travel_boots_2",
+    "localized_name": "Boots of Travel 2",
+    "cost": 4500,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  },
+  "guardian_greaves": {
+    "id": 231,
+    "name": "item_guardian_greaves",
+    "localized_name": "Guardian Greaves",
+    "cost": 5250,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0
+  }
+}
