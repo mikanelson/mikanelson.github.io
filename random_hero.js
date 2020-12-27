@@ -13,9 +13,11 @@ function getRandom(jsonObj) {
 
 function updateItems(bootJson, itemJson) {
   var checkbox = document.getElementById("boots-checkbox");
+  var items = [];
   if (checkbox.checked) {
-    updateInformation(getRandom(bootJson), "item-1-image", "item-1-header");
-    var items = [];
+    var boots = getRandom(bootJson);
+    items.push(boots.localized_name);
+    updateInformation(boots, "item-1-image", "item-1-header");    
     var itemId = 2;
     while (items.length < 5) {
       var randomItem = getRandom(itemJson);
@@ -28,7 +30,6 @@ function updateItems(bootJson, itemJson) {
       }
     }
   } else {
-    var items = [];
     var itemId = 1;
     while (items.length < 6) {
       var randomItem = getRandom(itemJson);
