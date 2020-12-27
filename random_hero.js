@@ -19,7 +19,7 @@ function updateItems(bootJson, itemJson) {
     items.push(boots.localized_name);
     updateInformation(boots, "item-1-image", "item-1-header");    
     var itemId = 2;
-    while (items.length < 5) {
+    while (items.length < 6) {
       var randomItem = getRandom(itemJson);
       if (items.includes(randomItem.localized_name) == false) {
         items.push(randomItem.localized_name);
