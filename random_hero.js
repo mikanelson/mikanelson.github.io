@@ -14,32 +14,21 @@ function getRandom(jsonObj) {
 function updateItems(bootJson, itemJson) {
   var checkbox = document.getElementById("boots-checkbox");
   var items = [];
+  var itemId = 1;
   if (checkbox.checked) {
     var boots = getRandom(bootJson);
     items.push(boots.localized_name);
     updateInformation(boots, "item-1-image", "item-1-header");    
-    var itemId = 2;
-    while (items.length < 6) {
-      var randomItem = getRandom(itemJson);
-      if (items.includes(randomItem.localized_name) == false) {
-        items.push(randomItem.localized_name);
-        var imageId = "item-" + itemId + "-image";
-        var headerId = "item-" + itemId + "-header";
-        itemId++;
-        updateInformation(randomItem, imageId, headerId);
-      }
-    }
-  } else {
-    var itemId = 1;
-    while (items.length < 6) {
-      var randomItem = getRandom(itemJson);
-      if (items.includes(randomItem.localized_name) == false) {
-        items.push(randomItem.localized_name);
-        var imageId = "item-" + itemId + "-image";
-        var headerId = "item-" + itemId + "-header";
-        itemId++;
-        updateInformation(randomItem, imageId, headerId);
-      }
+    itemId = 2;
+  }
+  while (items.length < 6) {
+    var randomItem = getRandom(itemJson);
+    if (items.includes(randomItem.localized_name) == false) {
+      items.push(randomItem.localized_name);
+      var imageId = "item-" + itemId + "-image";
+      var headerId = "item-" + itemId + "-header";
+      itemId++;
+      updateInformation(randomItem, imageId, headerId);
     }
   }
 }
