@@ -13,6 +13,11 @@ h1 {
     font-size: 50px;
 }
 
+#logo {
+    width: 240px;
+    height: 180px;
+}
+
 #hero-image {
     display: block;
     margin-left: auto;
